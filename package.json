@@ -1,0 +1,25 @@
+{
+  "name": "@gonzih/skills-events",
+  "version": "1.0.0",
+  "description": "Events planning skills for Claude Code",
+  "main": "index.js",
+  "files": [
+    "skills/"
+  ],
+  "scripts": {
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "events",
+    "event-planning"
+  ],
+  "author": "gonzih",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-events"
+  }
+}
