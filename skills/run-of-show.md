@@ -79,6 +79,14 @@ Use the following format for each row. Be specific — include responsible party
 
 ---
 
+## Live Data Sources
+
+- **AV equipment spec databases**: Reference manufacturer spec sheets and industry databases (e.g., AVIXA standards) for accurate setup times, power requirements, and signal flow for audio, video, and lighting equipment listed in the timeline.
+- **IATSE union timing requirements**: Apply International Alliance of Theatrical Stage Employees work rules — load-in/load-out minimums, meal break intervals, turnaround requirements — to ensure the ROS is compliant when union crew is involved.
+- **Professional event timeline templates**: Draw on established run-of-show frameworks from MPI (Meeting Professionals International) and PCMA to ensure all standard segments, buffer times, and transition cues are accounted for.
+
+---
+
 Event details provided by the user:
 
 $ARGUMENTS

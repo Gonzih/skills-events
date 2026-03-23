@@ -61,6 +61,13 @@ Write a comprehensive event planning brief for the event described below. Struct
 
 ---
 
+## Live Data Sources
+
+- **Eventbrite API** (eventbrite.com/platform/api): Pull real venue capacity limits, existing event listings at the same venue, and ticket demand signals to inform attendance estimates and scheduling decisions.
+- **Google Places API**: Discover and validate venue options — fetch ratings, reviews, hours, accessibility info, and nearby amenities (hotels, parking, transit) for any proposed location.
+
+---
+
 Event details provided by the user:
 
 $ARGUMENTS
