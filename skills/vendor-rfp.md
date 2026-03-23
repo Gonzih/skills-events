@@ -72,6 +72,14 @@ Proposals will be evaluated on:
 
 ---
 
+## Live Data Sources
+
+- **Yelp Fusion API**: Search and compare local catering vendors, restaurants, and hospitality suppliers — pull ratings, reviews, price tiers, and contact info to pre-qualify vendors before issuing the RFP.
+- **Regional pricing indexes**: Reference current market rates for event services (catering per-head costs, A/V day rates, staffing wages) from regional hospitality and event industry indexes to set realistic budget ranges.
+- **IACC conference standards**: Apply International Association of Conference Centres benchmarks for meeting room capacity, catering ratios, and AV requirements when evaluating venue and service proposals.
+
+---
+
 Event and vendor details provided by the user:
 
 $ARGUMENTS

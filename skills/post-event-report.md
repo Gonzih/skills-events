@@ -149,6 +149,14 @@ Actionable insights for the next event:
 
 ---
 
+## Live Data Sources
+
+- **NPS survey frameworks**: Apply Net Promoter Score methodology alongside standard event satisfaction survey templates (e.g., Eventbrite post-event surveys, SurveyMonkey event templates) to structure and benchmark attendee feedback collection.
+- **ROI calculation templates**: Use event industry ROI models (e.g., ROI Institute methodology, MPI's event ROI toolkit) to quantify tangible returns — revenue, leads generated, media value — against total event cost.
+- **Event industry benchmark reports**: Compare outcomes against sector benchmarks from EIC (Events Industry Council), Bizzabo Event Marketing reports, and PCMA annual surveys to contextualize attendance rates, satisfaction scores, and budget performance.
+
+---
+
 Event details provided by the user:
 
 $ARGUMENTS
